@@ -366,4 +366,4 @@ For support, email your team or create an issue in the project repository.
 
 *Last Updated: September 2025*  
 *Version: 1.0.0*  
-*Built with ❤️ for KMRL Hackathon*
+*Built with ❤️ for KMRL during Smart India Hackathon*
